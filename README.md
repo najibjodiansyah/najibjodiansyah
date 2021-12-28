@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @najibjodiansyah
 - 👀 I’m interested in Data Science, Fullsatck, UI/UX, Design
 - 🌱 I’m currently learning Computer Engineering at Telkom University
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me najibjodiansyah11@gmail.com
 
 <!---
