@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @najibjodiansyah
-- 👀 I’m interested in Data Science, Fullsatck, UI/UX, Design
-- 🌱 I’m currently learning Computer Engineering at Telkom University
+- 👀 I’m interested in Data Science, Fullsatck, UI/UX
+- 🌱 I’m currently learning Go Language, Javascript, Web Application
+- 📫 How to reach me najibjodiansyah11[at]gmail[dot]com
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me najibjodiansyah11@gmail.com
 
 <!---
 najibjodiansyah/najibjodiansyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
