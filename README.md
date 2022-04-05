@@ -1,7 +1,11 @@
- 👋 Hi, I’m @najibjodiansyah\n
- 👀 I’m interested in Fullstack Web Development, mobile hybrid, ui/ux design, Machine Learning\n
- 🌱 I’m currently learning Go Language, Javascript, Python\n
- 📫 How to reach me najibjodiansyah11[at]gmail[dot]com\n
+ 👋 Hi, I’m @najibjodiansyah
+ 
+ 👀 I’m interested in Fullstack Web Development, mobile hybrid, ui/ux design, Machine Learning
+ 
+ 🌱 I’m currently learning Go Language, Javascript, Python
+ 
+ 📫 How to reach me najibjodiansyah11[at]gmail[dot]com
+ 
  💞️ I’m looking to collaborate on ...
 - Web development
 <!---
