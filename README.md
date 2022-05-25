@@ -1,8 +1,8 @@
  👋 Hi, I’m @najibjodiansyah
  
- 👀 I’m interested in Fullstack Web Development, mobile hybrid, ui/ux design, Machine Learning
+ 👀 I’m interested in Scrum Master, Fullstack Web Development, ui/ux design, Machine Learning, mobile dev (hybrid/native)
  
- 🌱 I’m currently learning Golang, Javascript, Python
+ 🌱 I’m currently learning Golang, Javascript, Python, Dart
  
  📫 How to reach me najibjodiansyah11[at]gmail[dot]com
  
