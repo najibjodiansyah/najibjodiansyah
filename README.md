@@ -2,7 +2,7 @@
  
  👀 I’m interested in Scrum Master, Fullstack Web Development, ui/ux design, Machine Learning, mobile dev (hybrid/native)
  
- 🌱 I’m currently learning Golang, Javascript, Python, Dart
+ 🌱 I’m currently learning Golang, Javascript, Python, Java
  
  📫 How to reach me najibjodiansyah11[at]gmail[dot]com
  
